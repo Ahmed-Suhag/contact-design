@@ -1,0 +1,249 @@
+@media(min-width:992px) and (max-width:1199px){
+
+#contact {
+	padding-top: 60px;
+	padding-bottom: 55px;
+}
+.contact_img img{
+    margin-bottom: 80px;     
+}
+.contact_img_two img{
+    margin-bottom: 80px; 
+}   
+#contact {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.contact_item p {
+	font-size: 16px;
+	margin-right: 0px;
+}
+.contac_item h3 {
+	padding-bottom: 15px;
+	padding-top: 24px;
+    font-size: 18px;
+}
+.cimg {
+	text-align: left;
+}
+.fimg_call {
+	text-align: right;
+}
+.conta a {
+	font-size: 14px;
+	padding: 18px 24px;
+}
+.contact_item img {
+	margin-top: -2px;
+}
+
+.con-text span {
+	font-size: 12px;
+	padding-right: 10px;
+}
+.con-text p {
+	font-size: 12px;
+	padding-right: 0px;
+	margin-left: 0px;
+}    
+.scl_com {
+	margin-top: 10px;
+}    
+.scl_com i {
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	font-size: 18px;
+}
+.fot-text p{
+    padding-right: 0;
+    margin-left: 0;
+}
+     
+
+    
+}
+
+
+@media(min-width:576px) and (max-width:767.98px){
+
+.contact_head {
+	margin-left: 0px;
+}    
+.contact_item h3 {
+	font-size: 20px;
+}    
+#contact {
+	padding-top: 45px;
+	padding-bottom: 45px;
+}    
+.form-group {
+	margin-bottom: 0rem;
+}    
+.textarea {
+	margin-top: 22px;
+}  
+.btn_two {
+	padding-top: 20px;
+	text-align: center;
+}
+.btn_two button {
+	font-size: 16px;
+	padding: 12px 18px;
+}    
+.contact_head h3 {
+	font-size: 26px;
+	text-align: center;
+	margin-top: 30px;
+}
+.contact_img_two img {
+	margin-bottom: 60px;
+	margin-right: 50px;
+}
+.contact_head {
+	margin-left: 0px;
+}
+.m-auto {
+	margin: 0 !important;
+}
+.contact_item p {
+	font-size: 16px;
+	margin-right: 0px;
+}
+.contact_item h3 {
+	padding-bottom: 15px;
+	padding-top: 24px;
+    font-size: 18px;
+}
+.cimg {
+	text-align: left;
+}
+.cimg_call {
+	text-align: right;
+}
+.conta a {
+	font-size: 10px;
+	padding: 13px 18px;
+}
+.contact_item img {
+	margin-top: 5px;
+}
+
+.con-text span {
+	font-size: 12px;
+	padding-right: 10px;
+}
+.fot-text p {
+	font-size: 12px;
+	padding-right: 0px;
+	margin-left: 0px;
+}    
+.scl_com {
+	margin-top: 10px;
+}    
+.scl_com a {
+	margin-right: 6px;
+} 
+.scl_com i {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+}
+.fot-text p{
+    padding-right: 0;
+    margin-left: 0;
+}
+    
+    
+}
+
+/*-----one part start---------*/
+@media(max-width:575.98px){
+
+.contact_item h3 {
+	font-size: 20px;
+}    
+#contact {
+	padding-top: 35px;
+	padding-bottom: 35px;
+} 
+.contact_img_two img {
+	margin-top: 36px;
+}
+.form-group {
+	margin-bottom: 0rem;
+}    
+.textarea {
+	margin-top: 18px;
+} 
+.btn_two {
+	padding-top: 20px;
+	text-align: center;
+}
+.btn_two button {
+	font-size: 14px;
+	padding: 9px 18px;
+} 
+.contact_head {
+	margin-left: 0px;
+	text-align: center;
+}    
+.contact_head h3 {
+	padding-top: 30px;
+}   
+.contact_text p {
+	font-size: 14px;
+	margin-right: 0px;
+}
+.contact_text h3 {
+	padding-bottom: 15px;
+	padding-top: 24px;
+    font-size: 18px;
+}
+.cimg {
+	text-align: right;
+}
+.cimg_call {
+	text-align: right;
+}
+.conta a {
+	font-size: 12px;
+	padding: 14px 24px;
+}
+.scl_com i {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 18px;
+}
+.con-text span {
+	font-size: 12px;
+	padding-right: 10px;
+}
+.con-text p {
+	font-size: 12px;
+	padding-right: 0px;
+	margin-left: 0px;
+}
+    
+}
+
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
